@@ -37,10 +37,8 @@ Our project seeks to address several key research questions:
 
 To tackle these questions, we will explore and compare various models and algorithms:
 
-- **Linear SVM (One-vs-Rest)**: This model will serve as a baseline, predicting future weather conditions based on historical data.
 - **Random Forest**: An ensemble learning method known for its effectiveness in handling nonlinear relationships and resistance to overfitting, making it ideal for complex weather data.
 - **Logistic Regression**: A statistical model used for predicting binary outcomes, which can be applied to weather classification tasks.
-- **Decision Tree**: A simple yet powerful tool for creating classification and regression models, useful for interpreting weather patterns.
 
 ## Evaluation
 
