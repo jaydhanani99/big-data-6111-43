@@ -24,7 +24,6 @@ The architecture of our system is designed to efficiently handle and process lar
 - **Data Preprocessing**: Initial analysis and exploration are conducted to understand the data's structure and to perform necessary transformations, ensuring compatibility with our analytical models.
 - **Data Processing**: The dataset is organized into separate CSV files for each attribute. Our objective is to consolidate these into a unified DataFrame, encompassing all hourly measurements. Furthermore, we aim to simplify the diverse weather conditions into a set of common categories for easier analysis.
 - **Storage**: We employ HDFS (Hadoop Distributed File System) for its scalability and reliability in storing extensive datasets.
-- **SQL Layer**: For interactive querying and complex analysis, we utilize Apache Hive and Presto, facilitating efficient data handling and reporting.
 
 ### Research Questions
 
